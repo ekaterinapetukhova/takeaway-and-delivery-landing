@@ -569,7 +569,7 @@ a[class$="__btn"] {
 .order__img {
 }
 .order__now {
-    background: url(/images/order/order-bg.jpg);
+    background: #35B8BE;
     height: 640px;
     flex-basis: 666px;
     display: flex;
